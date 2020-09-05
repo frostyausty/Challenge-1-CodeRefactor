@@ -46,6 +46,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/*end of header styling*/
 
 /* start of hero styling*/
 .hero {
@@ -56,6 +57,7 @@ a {
     background-size: cover;
     background-position: center;
 }
+/*end of hero styling*/
 
 /*start of content styling*/
 p {
@@ -96,6 +98,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*end of content styling*/
 
 /* start of benefits styling */
 .benefits {
@@ -124,6 +127,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*end of benefits styling*/
 
 /*start of footer styling*/
 footer {
