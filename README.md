@@ -10,3 +10,6 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+This version of the website was refactored for better accessability. There are now descriptive sections throughout the index file to easily understand which sections correspond to the website content. Alt attributes were added to all image files, and one link was fixed. 
+The CSS file was drastically condensed and reorganized. Comments were added for easier navigation. 
