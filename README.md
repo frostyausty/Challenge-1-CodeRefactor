@@ -2,7 +2,7 @@ This version of the website was refactored for better accessability. There are n
 
 The CSS file was drastically condensed and reorganized. Comments were added for easier navigation. 
 
-Screenshots are located in develop/assets/screenshots
+Screenshots are located in /assets/screenshots
 
 live URL on GitHub
 https://frostyausty.github.io/Challenge-1-CodeRefactor/
