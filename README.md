@@ -5,4 +5,4 @@ The CSS file was drastically condensed and reorganized. Comments were added for 
 Screenshots are located in /assets/screenshots
 
 live URL on GitHub
-https://frostyausty.github.io/Challenge-1-CodeRefactor/
+https://frostyausty.github.io/CodeRefactor/
